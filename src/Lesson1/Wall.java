@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Wall extends Obstacle{
     private int height;
     private String name;

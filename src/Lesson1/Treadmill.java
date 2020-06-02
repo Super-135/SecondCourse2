@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Treadmill extends Obstacle{
 
     private int length;
